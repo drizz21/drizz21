@@ -1,154 +1,17 @@
+<h1 align="center">Hi 👋, I'm Dani Sulaiman</h1>
+<h3 align="center">AI Engineer • Full-Stack Developer • Data Analyst</h3>
 
+- 🤖 my portofolio [https://danisulaiman.vercel.app/](https://danisulaiman.vercel.app/)
 
-Dani Sulaiman
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/dani-sulaiman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dani-sulaiman/" height="30" width="40" /></a>
+<a href="https://kaggle.com/drakes05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="drakes05" height="30" width="40" /></a>
+</p>
 
-AI Engineer · Full-Stack Developer · Data Analyst
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-Building practical software at the intersection of AI, data, and web development.
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=drizz21&show_icons=true&locale=en&layout=compact" alt="drizz21" /></p>
 
-Portfolio · Email
-
-
-
-
-
-About
-
-I'm an Informatics Engineering graduate with experience across full-stack development, data analysis, and applied machine learning. My current focus is AI Engineering, with an interest in turning data and AI techniques into practical software.
-
-I enjoy working across the stack—from data processing and machine learning to application development and user-facing interfaces.
-
-Focus
-
-AI Engineering · Machine Learning · Data Analytics · Full-Stack Development
-
-Selected Projects
-
-
-
-
-
-
-
-Project
-
-
-
-Description
-
-
-
-
-
-Heart Disease Risk Prediction System
-
-
-
-Predictive healthcare web application using Random Forest, trained on an international cardiovascular dataset, with 97% classification accuracy for real-time risk assessment.
-
-
-
-
-
-Inflation Analysis Dashboard — BPS Yogyakarta
-
-
-
-Streamlit dashboard that aggregates economic data into monthly and annual inflation summaries for Yogyakarta.
-
-
-
-
-
-Rino Rental — Car Rental Website
-
-
-
-Web-based fleet rental platform created to digitalize the business processes of a car rental service in Sorong.
-
-
-
-
-
-Point-of-Sale System with QR Ordering
-
-
-
-Digital POS platform featuring QR-based menu ordering and real-time transaction tracking to improve service efficiency.
-
-View portfolio →
-
-Experience
-
-Badan Pusat Statistik (BPS) — Yogyakarta
-Software Engineering & Data Analyst Intern · Nov 2025 – Jan 2026
-
-
-
-
-
-Collected, cleaned, and processed internal inflation data using Python and Microsoft Excel.
-
-
-
-Performed data preprocessing and statistical analysis to identify market trends and commodity trading patterns.
-
-
-
-Created data visualizations and analytical summaries to support reporting and analysis.
-
-PT Valbuty Asia Futures — Sleman, Yogyakarta
-Data Analyst Intern · Oct 2025 – Nov 2026
-
-
-
-
-
-Supported market analysis and data-driven insights using Python and Tableau.
-
-
-
-Applied data processing and analytical approaches to identify patterns and relevant information within market activities.
-
-
-
-Tech Stack
-
-Languages
-Python · JavaScript · HTML · CSS · Go
-
-AI / Data
-PyTorch · LangChain · Machine Learning · Tableau · Streamlit · Microsoft Excel
-
-Web / Tools
-Tailwind CSS · Docker · PostgreSQL · MySQL · Figma
-
-Education
-
-Universitas Ahmad Dahlan — Yogyakarta
-Bachelor of Informatics · 2022 – 2026 · GPA 3.51
-
-Certifications
-
-
-
-
-
-Generative AI Developer — Alibaba Cloud
-
-
-
-Learn Artificial Intelligence — Dicoding
-
-
-
-Data Visualization — Dicoding
-
-
-
-
-
-Let's connect
-
-Portfolio · GitHub · Email
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drizz21&" alt="drizz21" /></p>
