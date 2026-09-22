@@ -1,5 +1,9 @@
-<h1 align="center">Hi, I'm Kazzi 👋</h1>
+<h1 align="center">Hi, I`m Dani Sulaiman</h1>
+
+
 <h3 align="center">Machine Learning Engineer • Full-Stack Developer • AI-Assisted Tooling</h3>
+
+
 
 <p align="center">
   <a href="https://YOUR_PORTFOLIO_URL" target="_blank">
@@ -21,50 +25,40 @@
   </a>
 </p>
 
-<p align="center"><i>I build practical software where AI, data, and the web meet.</i></p>
 
 <br/>
 
-I enjoy keeping up with AI developments and using AI-assisted tools — like Claude Code — to build software faster and better.
+I enjoy keeping up with **AI developments** and using AI tools to streamline business operations.
 
-I designed and built **Seruput**, a real-time ordering & cashier system for coffee shops — QR-code table ordering across 30 tables, built with React/Next.js, Tailwind CSS, and Indonesian payment gateways (Midtrans/Xendit).
+I developed a heart disease prediction website **free**, based on my university thesis.
 
-I developed a heart disease risk prediction web app based on my undergraduate thesis — a Flask backend with a tuned Random Forest / Gradient Boosting / SVM pipeline, wrapped in an animated ECG-style frontend.
-
-I'm building a personal blog with a minimalist, elegant design — clean typography and a simple chronological layout.
-
-**Fun fact:**
-I have a strong eye for minimalist, non-generic design, and I'm slowly exploring ethical hacking & OSINT on the side — purely for self-defense and learning.
+I built an inflation analysis dashboard for the **Yogyakarta** City Government.
 
 <br/>
 
-<h3 align="center">Languages & Tools</h3>
+<h3 align="center">Technologies & Tools</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/scikit-learn/scikit-learn-icon.svg" alt="scikit-learn" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
 </p>
-
-<p align="center"><sub>Also in the toolkit: Claude Code · WSL/Ubuntu · Midtrans · Xendit · GridSearchCV · Prompt Engineering · OSINT (PhoneInfoga, Maltego, Sherlock)</sub></p>
-
-<br/>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME" alt="GitHub Streak"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/streamlit" alt="streamlit" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/llamaindex-color.svg" alt="llamaindex" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/langchain" alt="langchain" width="40" height="40"/>
 </p>
